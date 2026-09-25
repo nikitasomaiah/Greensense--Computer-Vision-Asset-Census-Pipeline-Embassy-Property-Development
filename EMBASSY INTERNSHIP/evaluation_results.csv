@@ -1,0 +1,47 @@
+filename,scene_type,asset_category,ground_truth,predicted,error,abs_error,pct_error
+eval_sparse_garden.jpg,Sparse / High Contrast,a flowering shrub,6,0,-6,6,100.0
+eval_sparse_garden.jpg,Sparse / High Contrast,a palm tree,2,0,-2,2,100.0
+eval_sparse_garden.jpg,Sparse / High Contrast,a tree,4,5,1,1,25.0
+eval_dense_canopy.jpg,Dense / Heavy Occlusion,a flowering shrub,10,0,-10,10,100.0
+eval_dense_canopy.jpg,Dense / Heavy Occlusion,a palm tree,3,0,-3,3,100.0
+eval_dense_canopy.jpg,Dense / Heavy Occlusion,a tree,12,0,-12,12,100.0
+eval_pathway_walkway.jpg,Pathway / Linear Hedges,a tree,5,7,2,2,40.0
+eval_pathway_walkway.jpg,Pathway / Linear Hedges,a hedge,8,0,-8,8,100.0
+eval_pathway_walkway.jpg,Pathway / Linear Hedges,a garden pathway,1,0,-1,1,100.0
+eval_boulevard_lawn.jpg,Open Lawn / Perimeter Trees,a flowering shrub,12,0,-12,12,100.0
+eval_boulevard_lawn.jpg,Open Lawn / Perimeter Trees,a lawn / grass area,2,0,-2,2,100.0
+eval_boulevard_lawn.jpg,Open Lawn / Perimeter Trees,a tree,15,0,-15,15,100.0
+eval_courtyard_palms.jpg,Courtyard / Cluster Palms,a flowering shrub,5,0,-5,5,100.0
+eval_courtyard_palms.jpg,Courtyard / Cluster Palms,a palm tree,8,0,-8,8,100.0
+eval_courtyard_palms.jpg,Courtyard / Cluster Palms,a pergola,1,0,-1,1,100.0
+eval_boundary_hedges.jpg,Boundary Hedges / Shrubs,a flowering shrub,14,0,-14,14,100.0
+eval_boundary_hedges.jpg,Boundary Hedges / Shrubs,a hedge,10,0,-10,10,100.0
+eval_boundary_hedges.jpg,Boundary Hedges / Shrubs,a tree,3,4,1,1,33.3
+eval_overcast_lighting.jpg,Overcast / Low Light,a flowering shrub,8,0,-8,8,100.0
+eval_overcast_lighting.jpg,Overcast / Low Light,a palm tree,4,0,-4,4,100.0
+eval_overcast_lighting.jpg,Overcast / Low Light,a tree,7,10,3,3,42.9
+eval_mixed_plantation.jpg,Mixed Species Plantation,a flowering shrub,15,0,-15,15,100.0
+eval_mixed_plantation.jpg,Mixed Species Plantation,a hedge,6,0,-6,6,100.0
+eval_mixed_plantation.jpg,Mixed Species Plantation,a palm tree,5,0,-5,5,100.0
+eval_mixed_plantation.jpg,Mixed Species Plantation,a tree,9,9,0,0,0.0
+eval_urban_plaza.jpg,Urban Plaza / Potted Shrubs,a flower bed,4,0,-4,4,100.0
+eval_urban_plaza.jpg,Urban Plaza / Potted Shrubs,a flowering shrub,9,0,-9,9,100.0
+eval_urban_plaza.jpg,Urban Plaza / Potted Shrubs,a tree,6,11,5,5,83.3
+eval_pergola_garden.jpg,Pergola / Climbing Vines,a flowering shrub,7,0,-7,7,100.0
+eval_pergola_garden.jpg,Pergola / Climbing Vines,a tree,4,6,2,2,50.0
+eval_pergola_garden.jpg,Pergola / Climbing Vines,a pergola,2,0,-2,2,100.0
+eval_perimeter_fence.jpg,Perimeter Wall / Hedges,a lawn / grass area,1,0,-1,1,100.0
+eval_perimeter_fence.jpg,Perimeter Wall / Hedges,a tree,8,11,3,3,37.5
+eval_perimeter_fence.jpg,Perimeter Wall / Hedges,a hedge,12,0,-12,12,100.0
+eval_shaded_grove.jpg,Shaded Grove / Overlapping Canopies,a flowering shrub,8,0,-8,8,100.0
+eval_shaded_grove.jpg,Shaded Grove / Overlapping Canopies,a tree,14,0,-14,14,100.0
+eval_palm_avenue.jpg,Palm Avenue / Linear Trees,a palm tree,12,0,-12,12,100.0
+eval_palm_avenue.jpg,Palm Avenue / Linear Trees,a tree,6,9,3,3,50.0
+eval_palm_avenue.jpg,Palm Avenue / Linear Trees,a garden pathway,2,0,-2,2,100.0
+eval_flowerbed_border.jpg,Flowerbed / Ground Covers,a flower bed,6,0,-6,6,100.0
+eval_flowerbed_border.jpg,Flowerbed / Ground Covers,a flowering shrub,16,0,-16,16,100.0
+eval_flowerbed_border.jpg,Flowerbed / Ground Covers,a tree,2,2,0,0,0.0
+eval_block_d_garden.jpg,Block D Representative Site,a flowering shrub,12,0,-12,12,100.0
+eval_block_d_garden.jpg,Block D Representative Site,a hedge,6,0,-6,6,100.0
+eval_block_d_garden.jpg,Block D Representative Site,a palm tree,4,0,-4,4,100.0
+eval_block_d_garden.jpg,Block D Representative Site,a tree,10,9,-1,1,10.0
